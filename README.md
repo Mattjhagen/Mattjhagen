@@ -1,264 +1,177 @@
-# Hey, I'm Matty 👋
+<!-- MATTY HAGEN · GITHUB PROFILE -->
 
-### Founder • Developer • Builder • Professional Rabbit-Hole Explorer
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,45:0f172a,100:16a34a&text=Matty%20Hagen&fontColor=f8fafc&fontSize=64&fontAlignY=42&desc=Founder%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=65&descSize=19&descColor=86efac&animation=twinkling" alt="Matty Hagen — Founder, Developer, Builder" />
+</p>
 
-I build things because I can't seem to leave a good idea alone.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=850&color=4ADE80&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%3E_+Building+technology+that+actually+helps+people;%3E_+FinTech+%C3%97+AI+%C3%97+human-centered+software;%3E_+Self-hosting+models+on+old+Dell+servers;%3E_+Turning+2+AM+ideas+into+real+products;%3E_+Build.+Break.+Learn.+Help+people." alt="Animated introduction" />
+</p>
 
-I'm a founder and self-taught developer who loves turning ideas into **real, working products** — from fintech and AI to mobile apps, privacy tools, home-lab infrastructure, and the occasional project that started with *"I wonder if this is possible..."* at 2 AM.
+<p align="center">
+  <a href="https://p3lending.space"><img src="https://img.shields.io/badge/P%C2%B3_Lending-16a34a?style=for-the-badge&logo=ethereum&logoColor=white" alt="P3 Lending" /></a>
+  <a href="https://purepulse.one"><img src="https://img.shields.io/badge/PurePulse-0f172a?style=for-the-badge&logo=googlechrome&logoColor=4ade80" alt="PurePulse" /></a>
+  <a href="https://github.com/Mattjhagen?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-I care about technology that actually **does something useful for people**.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
----
+### `> whoami`
 
-## 🚀 What I'm Building
+```bash
+$ cat matty.txt
 
-### 🏦 P³ Lending Protocol
-**Founder & Lead Developer**
+  Name      : Matty Hagen
+  Role      : Founder / Lead Developer @ P³ Lending Protocol
+  Location  : Omaha, Nebraska
+  Building  : [ FinTech, AI, mobile apps, privacy tools ]
+  Powered by: [ faith, curiosity, unreasonable persistence ]
+  Motto     : "Build things that matter to somebody."
+```
 
-A new approach to peer-to-peer lending built around transparency, trust, and giving people better access to capital.
+I’m a founder and self-taught developer who turns ideas into real, working products. My projects tend to live where **AI, finance, privacy, faith, and human-centered software** overlap.
 
-`FinTech` `Web3` `TypeScript` `Supabase` `Ethereum` `Stripe`
+I prototype fast, learn in public, and have a hard time leaving a good idea alone. If something feels needlessly complicated or stacked against ordinary people, my first instinct is to ask: **could I build something better?**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
-### ✈️ Pilot
+### `> projects --featured`
 
-A native personal-finance and banking experience designed around a simple question:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **What would banking look like if we rebuilt it for the person using it instead of the institution running it?**
+#### [🏦 P³ Lending Protocol](https://p3lending.space)
 
-Built natively in SwiftUI with banking, lending, KYC, trust, automation, and AI concepts under one roof.
+A transparent, trust-centered approach to peer-to-peer lending and access to capital.
 
-`Swift` `SwiftUI` `FinTech` `AI` `iOS`
+`FinTech` `Web3` `TypeScript` `Supabase` `Ethereum`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💚 Rooted Daily
+#### [✈️ Pilot](https://github.com/Mattjhagen/Pilot)
 
-A Bible-focused iOS experience built around making Scripture approachable, beautiful, and part of everyday life.
+A personal-finance experience asking what banking looks like when it is built for the person using it.
 
-Faith isn't something I keep separate from the rest of my life. It influences why I build, how I treat people, and what I ultimately want my work to accomplish.
+`SwiftUI` `FinTech` `AI` `Trust` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [💚 Rooted Daily](https://github.com/Mattjhagen/Rooted_Daily)
+
+A beautiful, conversational guide that makes Scripture approachable and part of everyday life.
 
 `SwiftUI` `iOS` `Faith` `Product Design`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎨 PurePulse
+#### [🎨 PurePulse](https://github.com/Mattjhagen/PurePulse)
 
-My web design and development studio.
+My web design studio: strong dark interfaces, strong typography, motion, and sites that feel alive.
 
-I love taking an empty screen and turning it into something that **feels alive** — strong typography, motion, dark interfaces, thoughtful interactions, and experiences that don't look like they came out of the same template factory as everything else on the internet.
+`Web Design` `UI/UX` `Animation` `Branding`
 
-`Web Design` `JavaScript` `UI/UX` `Animation` `Branding`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+#### [🐧 Project Aquarius](https://github.com/Mattjhagen/FlowOS-Project-Aquarius)
 
-## 🧠 Things I Can't Stop Learning About
+A Linux-based operating-system experiment built around FlowOS and the joy of making hardware useful again.
 
-```text
-AI & Local LLMs          ████████████████████
-FinTech                  ████████████████████
-Swift / SwiftUI          ███████████████████░
-Linux & Servers          ███████████████████░
-UI / Product Design      ██████████████████░░
-Cybersecurity            █████████████████░░░
-Blockchain               ████████████████░░░░
-Automotive Tech          ███████████████░░░░░
-```
+`Linux` `Open Source` `Systems` `Self-hosting`
 
-I'm especially interested in the intersection between **AI, finance, privacy, and human-centered software.**
+</td>
+<td width="50%" valign="top">
 
----
+#### [🧭 NorthStar Recovery](https://github.com/Mattjhagen/NorthStarRecovery)
 
-## 🖥️ My Home Lab
+Recovery technology designed with empathy, lived experience, and a belief that people can rebuild.
 
-Some people collect sneakers.
+`Recovery` `Mobile` `Wellness` `Human-centered`
 
-I apparently collect **old Dell PowerEdge servers.**
+</td>
+</tr>
+</table>
 
-```text
-┌─────────────────────────────────────────────┐
-│              MATTY'S HOME LAB               │
-├─────────────────────────────────────────────┤
-│                                             │
-│   Dell PowerEdge R510  ──► AI / LLMs        │
-│   Dell PowerEdge T310  ──► Storage / Linux  │
-│   Dell PowerEdge R410  ──► Experiments      │
-│                                             │
-│   Ubuntu • Docker • Tailscale • Ollama      │
-│   OpenCode • Cloudflare • Self Hosting      │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<p align="right"><a href="https://github.com/Mattjhagen?tab=repositories"><img src="https://img.shields.io/badge/See_everything_I%E2%80%99m_building_%E2%86%92-16a34a?style=for-the-badge&labelColor=0f172a" alt="All repositories" /></a></p>
 
-I love self-hosting, networking, Linux, local AI, and figuring out how much useful life can still be squeezed out of hardware somebody else decided was obsolete.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
----
+### `> tech.stack --list`
 
-## 🛠️ Tools I Reach For
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,python,react,nodejs,supabase,postgres,docker,linux,cloudflare&perline=12&theme=dark" alt="Technology stack" />
+</p>
 
-### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
-### Stack
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
----
-
-# 🧩 How I Build
-
-I'm not particularly interested in technology for technology's sake.
-
-I like starting with:
-
-> **"Why does this suck?"**
-
-Then:
-
-> **"Could I build something better?"**
-
-And finally:
-
-> **"Well... now I have to try."**
-
-My projects tend to live somewhere between **software engineering, entrepreneurship, design, and experimentation.**
-
-I prototype quickly, break things frequently, learn what I didn't know yesterday, and keep pushing until the idea becomes something you can actually use.
-
----
-
-# ❤️ Outside the Terminal
-
-I'm a developer, but that's definitely not the whole story.
-
-### ✝️ Faith
-
-My Christian faith is a huge part of my life.
-
-I'm fascinated by Scripture, theology, history, and the intersection between **ancient wisdom and modern technology**.
-
----
-
-### 🔧 Cars & Electronics
-
-Give me:
-
-- an old car
-- a multimeter
-- some questionable wiring
-- a piece of technology that absolutely was not designed for that car
-
-…and I'm probably going to try making it work anyway.
-
----
-
-### 🖥️ Old Hardware
-
-I genuinely enjoy rescuing old computers and servers.
-
-There's something satisfying about taking hardware headed toward recycling and turning it into a:
-
-**server → AI machine → NAS → development box → completely unnecessary weekend project**
-
----
-
-### 🤖 Artificial Intelligence
-
-AI fascinates me far beyond chatbots.
-
-I'm interested in:
-
-- Local models
-- Autonomous agents
-- AI-assisted software development
-- Human + AI collaboration
-- Privacy-preserving AI
-- Financial AI
-- Running models on hardware they probably shouldn't run on
-
-I think we're still ridiculously early.
-
----
-
-### 🐈 Cats
-
-Software is temporary.
-
-Cats walking directly across your keyboard while you're debugging production are forever.
-
----
-
-# 🌎 What I Care About
-
-Technology is powerful, but **people matter more than software.**
-
-I want to build things that:
+### `> homelab --status`
 
 ```text
-✓ Give people more control
-✓ Make complicated systems understandable
-✓ Protect privacy
-✓ Expand access to opportunity
-✓ Treat users like humans
-✓ Challenge outdated systems
-✓ Leave something useful behind
+  Dell PowerEdge R510  ──►  Local AI / LLMs
+  Dell PowerEdge T310  ──►  Storage / Linux
+  Dell PowerEdge R410  ──►  Experiments (probably unnecessary)
+
+  Ubuntu  •  Docker  •  Tailscale  •  Ollama  •  Cloudflare
 ```
 
-Success to me isn't just building a company.
+Some people collect sneakers. I collect old Dell PowerEdge servers and see how much useful life I can squeeze out of hardware somebody else gave up on.
 
-It's being able to look back and say:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
-> **I built things that mattered to somebody.**
+### `> git log --activity`
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mattjhagen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22c55e&text_color=cbd5e1" alt="Matty's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Mattjhagen&hide_border=true&background=0D1117&ring=4ADE80&fire=F97316&currStreakLabel=4ADE80&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Matty's contribution streak" />
+</p>
 
-# 📈 GitHub
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mattjhagen&bg_color=0d1117&color=4ade80&line=22c55e&point=f8fafc&area=true&area_color=166534&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mattjhagen&show_icons=true&hide_border=true&theme=transparent)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mattjhagen/Mattjhagen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mattjhagen/Mattjhagen/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Mattjhagen/Mattjhagen/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattjhagen&layout=compact&hide_border=true&theme=transparent)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mattjhagen&theme=transparent&hide_border=true)
+### `> values --print`
 
----
+```text
+✓ Give people more control       ✓ Make complicated systems understandable
+✓ Protect privacy                ✓ Expand access to opportunity
+✓ Treat users like humans        ✓ Leave something useful behind
+```
 
-# 🤝 Let's Build Something
+Technology is powerful, but **people matter more than software**. Faith shapes why I build, how I treat people, and what I want the work to accomplish.
 
-I'm always interested in meeting:
+<p align="center">
+  <br />
+  <strong>Build things. Break things. Learn things. Help people.</strong>
+  <br /><br />
+  <em>“Whatever you do, work at it with all your heart.”</em><br />
+  <strong>Colossians 3:23</strong>
+</p>
 
-**Founders • Developers • Designers • AI nerds • FinTech people • Open-source contributors • Builders • People with ideas that sound slightly unreasonable**
-
-If you're working on something interesting, I probably want to hear about it.
-
----
-
-<div align="center">
-
-### Build things. Break things. Learn things. Help people.
-
-**— Matty Hagen**
-
-<br>
-
-*"Whatever you do, work at it with all your heart."*  
-**Colossians 3:23**
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,45:0f172a,100:16a34a&section=footer&animation=twinkling" alt="Footer" />
+</p>
