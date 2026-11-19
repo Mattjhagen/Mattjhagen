@@ -13,9 +13,9 @@ npm run preview
 
 Open http://localhost:4173. Edit files in `site/` and rebuild to refresh the output. The printable résumé is in `site/resume.html`. After changing it, regenerate `site/assets/matthew-hagen-resume.pdf` by printing the résumé to PDF in Chrome, with browser headers and footers disabled.
 
-## Deploy
+## Deploy with GitHub Pages
 
-1. Configure a static host for this repository. Set the build command to `npm run build` and the publish directory to `dist`. Leave environment variables empty.
-2. Check the host's preview URL on desktop and mobile. Open each case study and verify the résumé PDF and public contact links.
-3. Add `mattyhagen.xyz` as the host's custom domain. Confirm who controls its DNS and whether an existing site needs to move before changing routing. Follow the host's apex DNS and HTTPS instructions. Preserve any unrelated DNS records.
-4. Verify HTTPS, the social share image, and `/sitemap.xml` on the public domain.
+1. In the repository's **Settings → Pages**, set the publishing source to **GitHub Actions**. The portfolio workflow builds and publishes `dist` on pushes to `main`.
+2. Check the deployment at https://mattjhagen.github.io/Mattjhagen/. Open the case studies and test the résumé PDF and contact links.
+3. Verify ownership of `mattjhagen.xyz` in GitHub, then add it as the custom domain in **Settings → Pages**. Check whether the domain has an existing site before updating its Cloudflare DNS records. Follow [GitHub's apex-domain instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+4. Enable **Enforce HTTPS** after GitHub provisions the certificate. Verify the portfolio, PDF, social share image and `/sitemap.xml` on the custom domain.
