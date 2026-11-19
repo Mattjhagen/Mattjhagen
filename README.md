@@ -52,6 +52,8 @@ A transparent, trust-centered approach to peer-to-peer lending and access to cap
 
 #### [✈️ Pilot](https://github.com/Mattjhagen/Pilot)
 
+[Live demo](https://pilot.mattjhagen.xyz/)
+
 A personal-finance experience asking what banking looks like when it is built for the person using it.
 
 `SwiftUI` `FinTech` `AI` `Trust` `Automation`
@@ -63,6 +65,8 @@ A personal-finance experience asking what banking looks like when it is built fo
 
 #### [💚 Rooted Daily](https://github.com/Mattjhagen/Rooted_Daily)
 
+[Live site](https://rootedapp.space/)
+
 A beautiful, conversational guide that makes Scripture approachable and part of everyday life.
 
 `SwiftUI` `iOS` `Faith` `Product Design`
@@ -71,6 +75,8 @@ A beautiful, conversational guide that makes Scripture approachable and part of 
 <td width="50%" valign="top">
 
 #### [🎨 PurePulse](https://github.com/Mattjhagen/PurePulse)
+
+[Live site](https://purepulse.one/)
 
 My web design studio: strong dark interfaces, strong typography, motion, and sites that feel alive.
 
@@ -83,6 +89,8 @@ My web design studio: strong dark interfaces, strong typography, motion, and sit
 
 #### [🐧 Project Aquarius](https://github.com/Mattjhagen/FlowOS-Project-Aquarius)
 
+[Project site](https://aquarius.mattjhagen.xyz/) · [Docs](https://flowos.wiki/)
+
 A Linux-based operating-system experiment built around FlowOS and the joy of making hardware useful again.
 
 `Linux` `Open Source` `Systems` `Self-hosting`
@@ -91,6 +99,8 @@ A Linux-based operating-system experiment built around FlowOS and the joy of mak
 <td width="50%" valign="top">
 
 #### [🧭 NorthStar Recovery](https://github.com/Mattjhagen/NorthStarRecovery)
+
+[Web demo](https://northstar.mattjhagen.xyz/)
 
 Recovery technology designed with empathy, lived experience, and a belief that people can rebuild.
 
