@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Matthew Hagen — Software, Linux &amp; Product</title>
+  <meta name="description" content="Matthew (Matty) Hagen is an Omaha-based developer and founder working across product development, Linux systems, and self-hosted infrastructure.">
+  <meta name="theme-color" content="#090e18">
+  <link rel="canonical" href="https://mattyhagen.xyz/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mattyhagen.xyz/">
+  <meta property="og:title" content="Matthew Hagen — Software, Linux &amp; Product">
+  <meta property="og:description" content="Selected work in software, Linux and self-hosted infrastructure, from Matthew (Matty) Hagen.">
+  <meta property="og:image" content="https://mattyhagen.xyz/assets/share.png">
+  <meta property="og:image:alt" content="Matthew Hagen · Software, Linux &amp; Product">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./assets/site.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header" id="top">
+    <div class="wrap header-inner">
+      <a class="brand" href="#top" aria-label="Matty Hagen, home"><span class="mark" aria-hidden="true">&gt;_</span> matty<span class="brand-muted">.hagen</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+        <a class="nav-resume" href="./resume.html">Résumé <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap hero-inner">
+        <div>
+          <p class="eyebrow"><span class="status" aria-hidden="true"></span> Omaha, Nebraska</p>
+          <h1 id="hero-title">Matthew<br>Hagen<span>.</span></h1>
+          <p class="hero-role">Software developer &amp; systems builder</p>
+          <p class="hero-copy">I’m Matty, a self-taught developer and founder. I build web and mobile products and repurpose server hardware for Linux and self-hosted AI.</p>
+          <div class="actions">
+            <a class="button primary" href="#work">Explore my work <span aria-hidden="true">↓</span></a>
+            <a class="button secondary" href="./resume.html">View résumé <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+        <div class="terminal">
+          <div class="terminal-bar"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span><span>matty@homelab: ~</span></div>
+          <div class="terminal-body">
+            <p class="command"><span aria-hidden="true">$</span> homelab status</p>
+            <h2>Linux &amp; self-hosting</h2>
+            <dl>
+              <div><dt>PowerEdge R510</dt><dd>Local AI &amp; LLMs</dd></div>
+              <div><dt>PowerEdge T310</dt><dd>Linux storage</dd></div>
+              <div><dt>PowerEdge R410</dt><dd>Systems experiments</dd></div>
+            </dl>
+            <p class="terminal-stack">Ubuntu · Docker · Tailscale · Ollama</p>
+            <a href="https://github.com/Mattjhagen/Mattjhagen#-homelab---status">Homelab notes <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="wrap section" id="work" aria-labelledby="work-title">
+      <div class="section-intro">
+        <div><p class="eyebrow"><span aria-hidden="true">/</span> Portfolio</p><h2 id="work-title">Selected work</h2></div>
+        <a class="text-link" href="https://github.com/Mattjhagen?tab=repositories">All repositories <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="projects">
+        <article class="project">
+          <div class="project-art lending" aria-hidden="true"><div class="glyph">P³</div><span>PEER-TO-PEER LENDING</span></div>
+          <div class="project-body">
+            <p class="category">Fintech · Web application</p>
+            <h3>P³ Lending Protocol</h3>
+            <p>A peer-to-peer lending marketplace that explores reputation and social underwriting as inputs to credit decisions.</p>
+            <ul class="tags" aria-label="Technologies"><li>React</li><li>TypeScript</li><li>Supabase</li></ul>
+            <details><summary>Read case study</summary>
+              <p><strong>My role.</strong> Founder and lead developer, as documented on my GitHub profile.</p>
+              <p><strong>Implementation.</strong> The repository includes a React frontend, Supabase access policies and contract tests. A shared Justfile ties together local setup, policy checks and browser smoke tests.</p>
+              <a href="https://github.com/Mattjhagen/P3-Lending-Protocol">Inspect the source <span aria-hidden="true">↗</span></a>
+            </details>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art flow" aria-hidden="true"><div class="glyph">&gt;_</div><span>LINUX DESKTOP EXPERIMENT</span></div>
+          <div class="project-body">
+            <p class="category">Linux · Systems</p>
+            <h3>FlowOS / Project Aquarius</h3>
+            <p>A systems experiment that evolved from a mobile OS concept into a conversational desktop command-line interface.</p>
+            <ul class="tags" aria-label="Technologies"><li>Python</li><li>Linux</li><li>Alpine</li></ul>
+            <details><summary>Read case study</summary>
+              <p><strong>Design goal.</strong> Explore a natural-language interface for routine system tasks such as checking resource usage.</p>
+              <p><strong>Implementation.</strong> The repository includes a Python command-line interface, a plugin manager and an experimental ISO build with an Alpine root filesystem.</p>
+              <a href="https://github.com/Mattjhagen/FlowOS-Project-Aquarius">Inspect the source <span aria-hidden="true">↗</span></a>
+            </details>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art rooted" aria-hidden="true"><div class="glyph">R</div><span>OFFLINE-FIRST READING</span></div>
+          <div class="project-body">
+            <p class="category">Mobile · Offline data</p>
+            <h3>Rooted Daily</h3>
+            <p>A devotional app with offline Scripture, structured reading plans and a journal for reflection.</p>
+            <ul class="tags" aria-label="Technologies"><li>Expo</li><li>SQLite</li><li>Zustand</li></ul>
+            <details><summary>Read case study</summary>
+              <p><strong>Design goal.</strong> Give readers access to Scripture and a reading routine when connectivity is limited.</p>
+              <p><strong>Implementation.</strong> The app bundles the King James Version into a local SQLite database. Reading plans track chapter completion and save progress on the device.</p>
+              <a href="https://github.com/Mattjhagen/Rooted_Daily">Inspect the source <span aria-hidden="true">↗</span></a>
+            </details>
+          </div>
+        </article>
+        <article class="project">
+          <div class="project-art pulse" aria-hidden="true"><div class="glyph">≈</div><span>INDEPENDENT WEB STUDIO</span></div>
+          <div class="project-body">
+            <p class="category">Web design · Business</p>
+            <h3>PurePulse</h3>
+            <p>My independent web studio for small businesses and creators who need a clear, responsive site.</p>
+            <ul class="tags" aria-label="Technologies"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+            <details><summary>Read case study</summary>
+              <p><strong>Design goal.</strong> Make the scope, pricing and inquiry process easy for a prospective customer to understand.</p>
+              <p><strong>Implementation.</strong> The studio site presents service packages and an inquiry flow in a responsive, dark interface. The public source shows how the pages and styles are organized.</p>
+              <a href="https://github.com/Mattjhagen/PurePulse">Inspect the source <span aria-hidden="true">↗</span></a>
+            </details>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="about section" id="about" aria-labelledby="about-title">
+      <div class="wrap about-inner">
+        <div>
+          <p class="eyebrow"><span aria-hidden="true">/</span> About</p>
+          <h2 id="about-title">How I work</h2>
+          <p>Running an independent studio has given me practice turning open-ended requests into clear service packages and explaining technical choices in plain language. At P³, I’ve worked across product decisions, application code and local development workflows.</p>
+          <p>My homelab gives me a place to work through Linux setup, storage and container troubleshooting on repurposed Dell PowerEdge hardware.</p>
+        </div>
+        <dl class="skills">
+          <div><dt>Product development</dt><dd>React, TypeScript, Expo, responsive web design</dd></div>
+          <div><dt>Data &amp; applications</dt><dd>Supabase, PostgreSQL, SQLite</dd></div>
+          <div><dt>Infrastructure</dt><dd>Linux, Docker, Tailscale, Ollama</dd></div>
+        </dl>
+      </div>
+    </section>
+    <section class="wrap section" id="contact" aria-labelledby="contact-title">
+      <div class="contact-panel">
+        <div><p class="eyebrow"><span aria-hidden="true">/</span> Contact</p><h2 id="contact-title">Let’s talk.</h2><p>For roles in software development, Linux infrastructure or technical product work, reach me at <a href="mailto:matty@purepulse.one">matty@purepulse.one</a>.</p></div>
+        <div class="actions">
+          <a class="button primary" href="mailto:matty@purepulse.one">Email Matty <span aria-hidden="true">↗</span></a>
+          <a class="button secondary" href="https://github.com/Mattjhagen">GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer><div class="wrap footer-inner"><span>Matthew (Matty) Hagen</span><a href="#top">Back to top <span aria-hidden="true">↑</span></a></div></footer>
+</body>
+</html>
